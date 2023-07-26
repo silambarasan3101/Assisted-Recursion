@@ -1,0 +1,8 @@
+E:\hd\Assisted-Recursion\Assisted-Recursion\bin\Debug\Assisted-Recursion.exe.config
+E:\hd\Assisted-Recursion\Assisted-Recursion\bin\Debug\Assisted-Recursion.exe
+E:\hd\Assisted-Recursion\Assisted-Recursion\bin\Debug\Assisted-Recursion.pdb
+E:\hd\Assisted-Recursion\Assisted-Recursion\obj\Debug\Assisted-Recursion.csproj.AssemblyReference.cache
+E:\hd\Assisted-Recursion\Assisted-Recursion\obj\Debug\Assisted-Recursion.csproj.SuggestedBindingRedirects.cache
+E:\hd\Assisted-Recursion\Assisted-Recursion\obj\Debug\Assisted-Recursion.csproj.CoreCompileInputs.cache
+E:\hd\Assisted-Recursion\Assisted-Recursion\obj\Debug\Assisted-Recursion.exe
+E:\hd\Assisted-Recursion\Assisted-Recursion\obj\Debug\Assisted-Recursion.pdb
